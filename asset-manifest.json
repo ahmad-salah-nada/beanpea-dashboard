@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/%7Bbeanpea-dashboard%7D/static/css/main.aa7572f4.css",
-    "main.js": "/%7Bbeanpea-dashboard%7D/static/js/main.00ac4f53.js",
-    "index.html": "/%7Bbeanpea-dashboard%7D/index.html",
-    "main.aa7572f4.css.map": "/%7Bbeanpea-dashboard%7D/static/css/main.aa7572f4.css.map",
-    "main.00ac4f53.js.map": "/%7Bbeanpea-dashboard%7D/static/js/main.00ac4f53.js.map"
+    "main.css": "/beanpea-dashboard/static/css/main.aa7572f4.css",
+    "main.js": "/beanpea-dashboard/static/js/main.00ac4f53.js",
+    "index.html": "/beanpea-dashboard/index.html",
+    "main.aa7572f4.css.map": "/beanpea-dashboard/static/css/main.aa7572f4.css.map",
+    "main.00ac4f53.js.map": "/beanpea-dashboard/static/js/main.00ac4f53.js.map"
   },
   "entrypoints": [
     "static/css/main.aa7572f4.css",
